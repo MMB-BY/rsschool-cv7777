@@ -5,7 +5,7 @@ email: mmbmainp@gmail.com
 telegram: @SYTEHEP
 ```
 ## A bit about me
-### some information
+### I like IT community and want to become part of it 
 ## Skills
 ```
 HTML + CSS
